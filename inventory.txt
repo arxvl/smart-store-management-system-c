@@ -1,0 +1,30 @@
+BSCS00001	Apples	            75	120	30
+BSCS00002	Bacon	            160	45	15
+BSCS00003	Bread	            45	120	30
+BSCS00004	Canned Sardines	    25	150	40
+BSCS00005	Canned Tuna	        35	90	25
+BSCS00006	Carrots	            45	80	20
+BSCS00007	Cheese	            175	50	15
+BSCS00008	Chicken(Whole)	    250	70	20
+BSCS00009	Coffee(3-in-1)	    80	100	25
+BSCS00010	Cooking Oil(1L)	    130	90	30
+BSCS00011	Corned Beef	        45	110	30
+BSCS00012	Detergent	        70	85	25
+BSCS00013	Eggs(1 Dozen)	    110	85	30
+BSCS00014	Evaporated Milk	    50	100	30
+BSCS00015	Flour(1kg)	        90	95	25
+BSCS00016	Hotdogs	            90	60	20
+BSCS00017	Instant Noodles	    15	200	50
+BSCS00018	Laundry Soap Bar	30	150	40
+BSCS00019	Onions	            35	140	40
+BSCS00020	Orange Juice 	    25	130	35
+BSCS00021	Palm Oil(500ml)	    75	120	30
+BSCS00022	Peanut Butter	    140	50	15
+BSCS00023	Salt(1kg)	        30	100	20
+BSCS00024	Soy Sauce	        40	130	35
+BSCS00025	Loaf Bread	        65	85	25
+BSCS00026	Tomatoes	        55	150	40
+BSCS00027	Vinegar	            35	120	30
+BSCS00028	Yogurt	            50	65	20
+BSCS00029	Sugar (1kg)	        85	105	30
+BSCS00030	Fish Sauce	        45	70	20
