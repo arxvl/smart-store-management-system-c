@@ -29,6 +29,5 @@ inventory.txt — Product details
 sales.txt — Purchase transactions
 cart.txt — Temporary shopping cart
 receipts.txt — Formatted receipts
-
 store_record.txt — Sales summaries & restock insights
 
